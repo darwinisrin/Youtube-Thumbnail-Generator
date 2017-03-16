@@ -1,2 +1,2 @@
-# sitemap1.html
-sitemap
+# ytg
+Youtube Thumbnail Generator
