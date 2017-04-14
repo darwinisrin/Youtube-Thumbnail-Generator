@@ -1,1 +1,0 @@
-<a href="http://www.dmca.com/Protection/Status.aspx?id=912c41fc-2898-460a-8829-e1b37e0c629f" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=912c41fc-2898-460a-8829-e1b37e0c629f" alt="DMCA.com Protection Status" /></a> <script src="//images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
